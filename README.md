@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00FA9A&text=TimQwees&section=header&reversal=false&textBg=false&desc=The%20FullStack%20developer&descAlignY=64"/>
+</div>
 
-<!--
-**timqwees/timqwees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Welcome+to+workspace+the+TimQwees+Technology)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 FoFullStack Worker - ```PHP • JS/TS/Native/A.jax • JAVA • React • DateBase • Integration API • CMS • SEO-Manager • DevOps • UI/UX • AI • Vite/WebPack • CreatBots • Docker```
+
+![Profile Views](https://komarev.com/ghpvc/?username=timqwees)
+
+</div>
+
+---
+
+### 🚀 Main QweesTeam Studio Projects
+
+
+| 🗂️ Project                                                  | 📝 Description                                           |
+| --------------------------------------------------------------- | ---------------------------------------------------------- |
+| [QweeesCore FrameWork](https://github.com/timqwees/qweescroe) | PHP Ease tools for a creating Professional Web-Resourses |
+| [QweesIcons](https://github.com/timqwees/qweesicons)          | Native Icon Pack Plugins for a VisualStudio              |
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=footer&reversal=false&textBg=false&descAlignY=64&fontAlign=0&fontAlignY=0"/>
+</div>
