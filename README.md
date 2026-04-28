@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Welcome+to+workspace+the+TimQwees+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Welcome+to+workspace+the+TimQwees)](https://git.io/typing-svg)
 
 🧩 FoFullStack Worker - ```PHP • JS/TS/Native/A.jax • JAVA • React • DateBase • Integration API • CMS • SEO-Manager • DevOps • UI/UX • AI • Vite/WebPack • CreatBots • Docker```
 
