@@ -14,7 +14,7 @@
 
 | 🗂️ Project                                                  | 📝 Description                                           |
 | --------------------------------------------------------------- | ---------------------------------------------------------- |
-| [QweeesCore FrameWork](https://github.com/timqwees/qweescroe) | PHP Ease tools for a creating Professional Web-Resourses |
+| [QweeesCore FrameWork](https://github.com/timqwees/qweescore) | PHP Ease tools for a creating Professional Web-Resourses |
 | [QweesIcons](https://github.com/timqwees/qweesicons)          | Native Icon Pack Plugins for a VisualStudio              |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FA9A&section=footer&reversal=false&textBg=false&descAlignY=64&fontAlign=0&fontAlignY=0"/>
